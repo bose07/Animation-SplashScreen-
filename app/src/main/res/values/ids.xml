@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fromtop" type="id" />
+    <item name="web" type="id" />
+    <item name="webView" type="id" />
+</resources>
